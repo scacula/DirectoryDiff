@@ -1,2 +1,3 @@
-# Itau.PUSH.AdobeCampaign
-Ferramenta para Sincronização RT do Adobe Campaign
+# Directory Diff
+Ferramenta para comparação de arquivos em diretórios.
+Utilizado para autimatizar a catalogação 
