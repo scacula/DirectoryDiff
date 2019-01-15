@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\bin\Release\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\bin\Release\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Release\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Release\Itau.TreeFileViewer.pdb

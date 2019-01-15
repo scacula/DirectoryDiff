@@ -1,0 +1,25 @@
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.TreeFileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Documents\Visual Studio 2008\Projects\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Documents\Visual Studio 2008\Projects\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Documents\Visual Studio 2008\Projects\Itau.TreeFileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2008\Projects\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Documents\Visual Studio 2008\Projects\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.TreeFileViewer\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.TreeFileViewer\obj\Debug\Itau.TreeFileViewer.pdb

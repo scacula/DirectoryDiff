@@ -1,0 +1,95 @@
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Documents and Settings\Sergio\Configurações locais\Dados de aplicativos\Temporary Projects\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Projetos\Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\configDiff.xml
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\configDiff
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\configDiff
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.dll
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Documents and Settings\Sergio\Meus documentos\Visual Studio 2008\Projects\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\configDiff
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.dll
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Projetos\Tools\Itau.Tools\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\configDiff
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.exe
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.DirectoryDiff.pdb
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.dll
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\bin\Debug\Itau.TreeFileViewer.pdb
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Users\Sergio\Desktop\xxxxxxxxxxx\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.pdb
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csprojAssemblyReference.cache
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormDiffTree.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFileCopy.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormFiltros.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormInput.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.FormSelectType.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.Properties.Resources.resources
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.GenerateResource.cache
+C:\Users\Sergio\Source\Repos\DirectoryDiff\Itau.DirectoryDiff\Itau.DirectoryDiff\obj\Debug\Itau.DirectoryDiff.csproj.CoreCompileInputs.cache

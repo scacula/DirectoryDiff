@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<Version>1.4.0.0</Version>
+	<IgnoreExtensions>.pdb,.user,.gpState,.suo,.keep,.ccexclude</IgnoreExtensions>
+	<IgnorePaths>bin,obj</IgnorePaths>
+	<NodeTypes>32,16,4,8</NodeTypes>
+	<PublishFolders>pofluir,p6fluir</PublishFolders>
+	<LastDirA></LastDirA>
+	<LastDirB></LastDirB>
+  <CompareTool>C</CompareTool>
+  <NotContent>N</NotContent>
+</Settings>
